@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "categories": [
+    { "slug": "mains", "label": "Main Courses", "icon": "utensils" },
+    { "slug": "salads", "label": "Healthy & Salads", "icon": "leaf" },
+    { "slug": "desserts", "label": "Sweets & Desserts", "icon": "cookie" },
+    { "slug": "beverages", "label": "Drinks & Coffee", "icon": "coffee" }
+  ]
+}
